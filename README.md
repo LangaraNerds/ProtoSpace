@@ -5,11 +5,11 @@ Welcome to ProtoSpace, project developed by Langara Nerds as our capstone projec
 
 ProtoSpace is built with a combination of technologies including:
 
-Node.js for the server-side logic
-SQL for the database
-AWS for hosting and deployment
-React for the front-end user interface
-SASS for styling and design
+* Node.js for the server-side logic
+* SQL for the database
+* AWS for hosting and deployment
+* React for the front-end user interface
+* SASS for styling and design
 
 **Usage**
 
